@@ -1,0 +1,1 @@
+ALTER TABLE public.ingresos ENABLE ROW LEVEL SECURITY;
